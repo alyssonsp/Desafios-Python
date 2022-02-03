@@ -20,7 +20,7 @@ elif idade > 18:
     passado =atual - ano
     print('Você deveria ter se alistado há {} anos. '.format(ano))
     print('Seu alistamento foi em {}.'.format(passado))
-    
+
 
 
 
